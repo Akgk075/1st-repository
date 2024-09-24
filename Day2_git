@@ -1,0 +1,10 @@
+Git status 
+whethere it is added to commit or commited
+
+git add
+preparing to commit
+git add filename
+git add.(save all files)
+
+git commit
+save the changes
